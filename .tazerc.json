@@ -1,0 +1,9 @@
+{
+  "exclude": [
+    "husky",
+    "execa",
+    "codemirror",
+    "monaco-editor",
+    "open"
+  ]
+}
